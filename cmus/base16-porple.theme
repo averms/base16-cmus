@@ -1,0 +1,75 @@
+## Base16 Porple
+## Author: Niek den Breeje (https://github.com/AuditeMarlow)
+
+##
+# The following matchup is only true if you also changed your terminal emulator
+# colors to the same as the scheme you are using.
+# 0:       #292c36
+# 1:       #f84547
+# 2:       #95c76f
+# 3:       #efa16b
+# 4:       #8485ce
+# 5:       #b74989
+# 6:       #64878f
+# 7:       #d8d8d8
+# 8:       #65568a
+# 9:       #d28e5d
+# 10:      #333344
+# 11:      #474160
+# 12:      #b8b8b8
+# 13:      #e8e8e8
+# 14:      #986841
+# 15:      #f8f8f8
+# 16:      #000000
+##
+
+# overall background and foreground color
+set color_win_fg=default
+set color_win_bg=default
+
+# bottom status line
+set color_statusline_fg=2
+set color_statusline_bg=default
+
+# bottom title line
+set color_titleline_fg=2
+set color_titleline_bg=default
+
+# top title area
+set color_win_title_fg=2
+set color_win_title_bg=default
+set color_win_title_attr=bold
+
+# command-line colors
+set color_cmdline_bg=default
+set color_cmdline_fg=default
+set color_error=1
+set color_info=6
+
+# separator of windows
+# should be black
+set color_separator=16
+
+# unselected currently playing track's text
+set color_win_cur=13
+
+# active selection for currently playing track
+set color_win_cur_sel_bg=default
+set color_win_cur_sel_fg=3
+set color_win_cur_sel_attr=underline
+
+# inactive selection for currently playing track
+set color_win_inactive_cur_sel_bg=default
+set color_win_inactive_cur_sel_fg=13
+
+# active selection
+set color_win_sel_bg=default
+set color_win_sel_fg=3
+set color_win_sel_attr=underline
+
+# inactive selection
+set color_win_inactive_sel_bg=default
+set color_win_inactive_sel_fg=1
+
+# directory listing color
+set color_win_dir=default

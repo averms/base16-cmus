@@ -1,0 +1,75 @@
+## Base16 Railscasts
+## Author: Ryan Bates (http://railscasts.com)
+
+##
+# The following matchup is only true if you also changed your terminal emulator
+# colors to the same as the scheme you are using.
+# 0:       #2b2b2b
+# 1:       #da4939
+# 2:       #a5c261
+# 3:       #ffc66d
+# 4:       #6d9cbe
+# 5:       #b6b3eb
+# 6:       #519f50
+# 7:       #e6e1dc
+# 8:       #5a647e
+# 9:       #cc7833
+# 10:      #272935
+# 11:      #3a4055
+# 12:      #d4cfc9
+# 13:      #f4f1ed
+# 14:      #bc9458
+# 15:      #f9f7f3
+# 16:      #000000
+##
+
+# overall background and foreground color
+set color_win_fg=default
+set color_win_bg=default
+
+# bottom status line
+set color_statusline_fg=2
+set color_statusline_bg=default
+
+# bottom title line
+set color_titleline_fg=2
+set color_titleline_bg=default
+
+# top title area
+set color_win_title_fg=2
+set color_win_title_bg=default
+set color_win_title_attr=bold
+
+# command-line colors
+set color_cmdline_bg=default
+set color_cmdline_fg=default
+set color_error=1
+set color_info=6
+
+# separator of windows
+# should be black
+set color_separator=16
+
+# unselected currently playing track's text
+set color_win_cur=13
+
+# active selection for currently playing track
+set color_win_cur_sel_bg=default
+set color_win_cur_sel_fg=3
+set color_win_cur_sel_attr=underline
+
+# inactive selection for currently playing track
+set color_win_inactive_cur_sel_bg=default
+set color_win_inactive_cur_sel_fg=13
+
+# active selection
+set color_win_sel_bg=default
+set color_win_sel_fg=3
+set color_win_sel_attr=underline
+
+# inactive selection
+set color_win_inactive_sel_bg=default
+set color_win_inactive_sel_fg=1
+
+# directory listing color
+set color_win_dir=default
