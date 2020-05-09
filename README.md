@@ -16,9 +16,9 @@ affect any of the themes here because they only use terminal colors up to 7 (you
 that many different colors for the UI of a music program).
 
 Since this template only uses the first 16 ANSI colors, it doesn't even need to be
-generated. You can grab <templates/default.mustache> and use it as your permanent cmus
-theme. It will always adapt to your terminal colors, whether they were generated from
-base16 or not.
+generated. You can grab [default.mustache](templates/default.mustache) and use it as
+your permanent cmus theme. It will always adapt to your terminal colors, whether they
+were generated from base16 or not.
 
 [here]: https://github.com/cmus/cmus/blob/d1290d50f9f7585c43b9e1326c0d6d1e0b4583f6/ui_curses.c#L1780
 
