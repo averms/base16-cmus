@@ -1,4 +1,3 @@
 default:
-    extension: .theme
-    output: cmus
-
+  extension: .theme
+  output: cmus
