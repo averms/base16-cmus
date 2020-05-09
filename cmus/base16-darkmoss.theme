@@ -1,25 +1,25 @@
-## Base16 Nord
-## Author: arcticicestudio
+## Base16 darkmoss
+## Author: Gabriel Avanzi (https://github.com/avanzzzi)
 
 ##
 # The following matchup is only true if you also changed your terminal emulator
 # colors to the same as the scheme you are using.
-# 0:       #2E3440
-# 1:       #BF616A
-# 2:       #A3BE8C
-# 3:       #EBCB8B
-# 4:       #81A1C1
-# 5:       #B48EAD
-# 6:       #88C0D0
-# 7:       #E5E9F0
-# 8:       #4C566A
-# 9:       #D08770
-# 10:      #3B4252
-# 11:      #434C5E
-# 12:      #D8DEE9
-# 13:      #ECEFF4
-# 14:      #5E81AC
-# 15:      #8FBCBB
+# 0:       #171e1f
+# 1:       #ff4658
+# 2:       #499180
+# 3:       #fdb11f
+# 4:       #498091
+# 5:       #9bc0c8
+# 6:       #66d9ef
+# 7:       #c7c7a5
+# 8:       #555e5f
+# 9:       #e6db74
+# 10:      #252c2d
+# 11:      #373c3d
+# 12:      #818f80
+# 13:      #e3e3c8
+# 14:      #d27b53
+# 15:      #e1eaef
 # 16:      #000000
 ##
 

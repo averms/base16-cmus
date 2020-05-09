@@ -1,25 +1,25 @@
-## Base16 Nord
-## Author: arcticicestudio
+## Base16 vulcan
+## Author: Andrey Varfolomeev
 
 ##
 # The following matchup is only true if you also changed your terminal emulator
 # colors to the same as the scheme you are using.
-# 0:       #2E3440
-# 1:       #BF616A
-# 2:       #A3BE8C
-# 3:       #EBCB8B
-# 4:       #81A1C1
-# 5:       #B48EAD
-# 6:       #88C0D0
-# 7:       #E5E9F0
-# 8:       #4C566A
-# 9:       #D08770
-# 10:      #3B4252
-# 11:      #434C5E
-# 12:      #D8DEE9
-# 13:      #ECEFF4
-# 14:      #5E81AC
-# 15:      #8FBCBB
+# 0:       #041523
+# 1:       #818591
+# 2:       #977d7c
+# 3:       #adb4b9
+# 4:       #977d7c
+# 5:       #9198a3
+# 6:       #977d7c
+# 7:       #5b778c
+# 8:       #7a5759
+# 9:       #9198a3
+# 10:      #122339
+# 11:      #003552
+# 12:      #6b6977
+# 13:      #333238
+# 14:      #977d7c
+# 15:      #214d68
 # 16:      #000000
 ##
 

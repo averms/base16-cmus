@@ -1,25 +1,25 @@
-## Base16 Nord
-## Author: arcticicestudio
+## Base16 Nova
+## Author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
 
 ##
 # The following matchup is only true if you also changed your terminal emulator
 # colors to the same as the scheme you are using.
-# 0:       #2E3440
-# 1:       #BF616A
-# 2:       #A3BE8C
-# 3:       #EBCB8B
-# 4:       #81A1C1
-# 5:       #B48EAD
-# 6:       #88C0D0
-# 7:       #E5E9F0
-# 8:       #4C566A
-# 9:       #D08770
-# 10:      #3B4252
-# 11:      #434C5E
-# 12:      #D8DEE9
-# 13:      #ECEFF4
-# 14:      #5E81AC
-# 15:      #8FBCBB
+# 0:       #3C4C55
+# 1:       #83AFE5
+# 2:       #7FC1CA
+# 3:       #A8CE93
+# 4:       #83AFE5
+# 5:       #9A93E1
+# 6:       #F2C38F
+# 7:       #C5D4DD
+# 8:       #899BA6
+# 9:       #7FC1CA
+# 10:      #556873
+# 11:      #6A7D89
+# 12:      #899BA6
+# 13:      #899BA6
+# 14:      #F2C38F
+# 15:      #556873
 # 16:      #000000
 ##
 

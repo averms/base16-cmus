@@ -1,25 +1,25 @@
-## Base16 Nord
-## Author: arcticicestudio
+## Base16 Equilibrium Dark
+## Author: Carlo Abelli
 
 ##
 # The following matchup is only true if you also changed your terminal emulator
 # colors to the same as the scheme you are using.
-# 0:       #2E3440
-# 1:       #BF616A
-# 2:       #A3BE8C
-# 3:       #EBCB8B
-# 4:       #81A1C1
-# 5:       #B48EAD
-# 6:       #88C0D0
-# 7:       #E5E9F0
-# 8:       #4C566A
-# 9:       #D08770
-# 10:      #3B4252
-# 11:      #434C5E
-# 12:      #D8DEE9
-# 13:      #ECEFF4
-# 14:      #5E81AC
-# 15:      #8FBCBB
+# 0:       #0c1118
+# 1:       #f04339
+# 2:       #7f8b00
+# 3:       #bb8801
+# 4:       #008dd1
+# 5:       #6a7fd2
+# 6:       #00948b
+# 7:       #afaba2
+# 8:       #7b776e
+# 9:       #df5923
+# 10:      #181c22
+# 11:      #22262d
+# 12:      #949088
+# 13:      #cac6bd
+# 14:      #e3488e
+# 15:      #e7e2d9
 # 16:      #000000
 ##
 

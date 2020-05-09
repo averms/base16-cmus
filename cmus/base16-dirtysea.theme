@@ -1,25 +1,25 @@
-## Base16 Nord
-## Author: arcticicestudio
+## Base16 dirtysea
+## Author: Kahlil (Kal) Hodgson
 
 ##
 # The following matchup is only true if you also changed your terminal emulator
 # colors to the same as the scheme you are using.
-# 0:       #2E3440
-# 1:       #BF616A
-# 2:       #A3BE8C
-# 3:       #EBCB8B
-# 4:       #81A1C1
-# 5:       #B48EAD
-# 6:       #88C0D0
-# 7:       #E5E9F0
-# 8:       #4C566A
-# 9:       #D08770
-# 10:      #3B4252
-# 11:      #434C5E
-# 12:      #D8DEE9
-# 13:      #ECEFF4
-# 14:      #5E81AC
-# 15:      #8FBCBB
+# 0:       #e0e0e0
+# 1:       #000090
+# 2:       #730073
+# 3:       #006565
+# 4:       #007300
+# 5:       #840000
+# 6:       #755B00
+# 7:       #000000
+# 8:       #707070
+# 9:       #006565
+# 10:      #d0d0d0
+# 11:      #c0c0c0
+# 12:      #202020
+# 13:      #f8f8f8
+# 14:      #755B00
+# 15:      #c4d9c4
 # 16:      #000000
 ##
 

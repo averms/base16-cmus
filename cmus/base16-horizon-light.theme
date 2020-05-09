@@ -1,25 +1,25 @@
-## Base16 Nord
-## Author: arcticicestudio
+## Base16 Horizon Light
+## Author: Michaël Ball (http://github.com/michael-ball/)
 
 ##
 # The following matchup is only true if you also changed your terminal emulator
 # colors to the same as the scheme you are using.
-# 0:       #2E3440
-# 1:       #BF616A
-# 2:       #A3BE8C
-# 3:       #EBCB8B
-# 4:       #81A1C1
-# 5:       #B48EAD
-# 6:       #88C0D0
-# 7:       #E5E9F0
-# 8:       #4C566A
-# 9:       #D08770
-# 10:      #3B4252
-# 11:      #434C5E
-# 12:      #D8DEE9
-# 13:      #ECEFF4
-# 14:      #5E81AC
-# 15:      #8FBCBB
+# 0:       #FDF0ED
+# 1:       #F7939B
+# 2:       #94E1B0
+# 3:       #FBE0D9
+# 4:       #DA103F
+# 5:       #1D8991
+# 6:       #DC3318
+# 7:       #403C3D
+# 8:       #BDB3B1
+# 9:       #F6661E
+# 10:      #FADAD1
+# 11:      #F9CBBE
+# 12:      #948C8A
+# 13:      #302C2D
+# 14:      #E58C92
+# 15:      #201C1D
 # 16:      #000000
 ##
 

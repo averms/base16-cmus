@@ -1,25 +1,25 @@
-## Base16 Nord
-## Author: arcticicestudio
+## Base16 Hardcore
+## Author: Chris Caller
 
 ##
 # The following matchup is only true if you also changed your terminal emulator
 # colors to the same as the scheme you are using.
-# 0:       #2E3440
-# 1:       #BF616A
-# 2:       #A3BE8C
-# 3:       #EBCB8B
-# 4:       #81A1C1
-# 5:       #B48EAD
-# 6:       #88C0D0
-# 7:       #E5E9F0
-# 8:       #4C566A
-# 9:       #D08770
-# 10:      #3B4252
-# 11:      #434C5E
-# 12:      #D8DEE9
-# 13:      #ECEFF4
-# 14:      #5E81AC
-# 15:      #8FBCBB
+# 0:       #212121
+# 1:       #f92672
+# 2:       #a6e22e
+# 3:       #e6db74
+# 4:       #66d9ef
+# 5:       #9e6ffe
+# 6:       #708387
+# 7:       #cdcdcd
+# 8:       #4A4A4A
+# 9:       #fd971f
+# 10:      #303030
+# 11:      #353535
+# 12:      #707070
+# 13:      #e5e5e5
+# 14:      #e8b882
+# 15:      #ffffff
 # 16:      #000000
 ##
 

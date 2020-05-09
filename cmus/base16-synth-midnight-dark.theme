@@ -1,25 +1,25 @@
-## Base16 Nord
-## Author: arcticicestudio
+## Base16 Synth Midnight Dark
+## Author: Michaël Ball (http://github.com/michael-ball/)
 
 ##
 # The following matchup is only true if you also changed your terminal emulator
 # colors to the same as the scheme you are using.
-# 0:       #2E3440
-# 1:       #BF616A
-# 2:       #A3BE8C
-# 3:       #EBCB8B
-# 4:       #81A1C1
-# 5:       #B48EAD
-# 6:       #88C0D0
-# 7:       #E5E9F0
-# 8:       #4C566A
-# 9:       #D08770
-# 10:      #3B4252
-# 11:      #434C5E
-# 12:      #D8DEE9
-# 13:      #ECEFF4
-# 14:      #5E81AC
-# 15:      #8FBCBB
+# 0:       #040404
+# 1:       #B53B50
+# 2:       #06EA61
+# 3:       #DAE84D
+# 4:       #03AEFF
+# 5:       #EA5CE2
+# 6:       #7CEDE9
+# 7:       #DFDBDF
+# 8:       #61507A
+# 9:       #E4600E
+# 10:      #141414
+# 11:      #242424
+# 12:      #BFBBBF
+# 13:      #EFEBEF
+# 14:      #9D4D0E
+# 15:      #FFFBFF
 # 16:      #000000
 ##
 

@@ -1,25 +1,25 @@
-## Base16 Nord
-## Author: arcticicestudio
+## Base16 Edge Light
+## Author: cjayross (https://github.com/cjayross)
 
 ##
 # The following matchup is only true if you also changed your terminal emulator
 # colors to the same as the scheme you are using.
-# 0:       #2E3440
-# 1:       #BF616A
-# 2:       #A3BE8C
-# 3:       #EBCB8B
-# 4:       #81A1C1
-# 5:       #B48EAD
-# 6:       #88C0D0
-# 7:       #E5E9F0
-# 8:       #4C566A
-# 9:       #D08770
-# 10:      #3B4252
-# 11:      #434C5E
-# 12:      #D8DEE9
-# 13:      #ECEFF4
-# 14:      #5E81AC
-# 15:      #8FBCBB
+# 0:       #fafafa
+# 1:       #db7070
+# 2:       #7c9f4b
+# 3:       #d69822
+# 4:       #6587bf
+# 5:       #b870ce
+# 6:       #509c93
+# 7:       #5e646f
+# 8:       #5e646f
+# 9:       #db7070
+# 10:      #7c9f4b
+# 11:      #d69822
+# 12:      #6587bf
+# 13:      #b870ce
+# 14:      #509c93
+# 15:      #5e646f
 # 16:      #000000
 ##
 

@@ -1,25 +1,25 @@
-## Base16 Nord
-## Author: arcticicestudio
+## Base16 Gigavolt
+## Author: Aidan Swope (http://github.com/Whillikers)
 
 ##
 # The following matchup is only true if you also changed your terminal emulator
 # colors to the same as the scheme you are using.
-# 0:       #2E3440
-# 1:       #BF616A
-# 2:       #A3BE8C
-# 3:       #EBCB8B
-# 4:       #81A1C1
-# 5:       #B48EAD
-# 6:       #88C0D0
-# 7:       #E5E9F0
-# 8:       #4C566A
-# 9:       #D08770
-# 10:      #3B4252
-# 11:      #434C5E
-# 12:      #D8DEE9
-# 13:      #ECEFF4
-# 14:      #5E81AC
-# 15:      #8FBCBB
+# 0:       #202126
+# 1:       #ff661a
+# 2:       #f2e6a9
+# 3:       #ffdc2d
+# 4:       #40bfff
+# 5:       #ae94f9
+# 6:       #fb6acb
+# 7:       #e9e7e1
+# 8:       #a1d2e6
+# 9:       #19f988
+# 10:      #2d303d
+# 11:      #5a576e
+# 12:      #cad3ff
+# 13:      #eff0f9
+# 14:      #6187ff
+# 15:      #f2fbff
 # 16:      #000000
 ##
 

@@ -1,25 +1,25 @@
-## Base16 Nord
-## Author: arcticicestudio
+## Base16 Helios
+## Author: Alex Meyer (https://github.com/reyemxela)
 
 ##
 # The following matchup is only true if you also changed your terminal emulator
 # colors to the same as the scheme you are using.
-# 0:       #2E3440
-# 1:       #BF616A
-# 2:       #A3BE8C
-# 3:       #EBCB8B
-# 4:       #81A1C1
-# 5:       #B48EAD
-# 6:       #88C0D0
-# 7:       #E5E9F0
-# 8:       #4C566A
-# 9:       #D08770
-# 10:      #3B4252
-# 11:      #434C5E
-# 12:      #D8DEE9
-# 13:      #ECEFF4
-# 14:      #5E81AC
-# 15:      #8FBCBB
+# 0:       #1d2021
+# 1:       #d72638
+# 2:       #88b92d
+# 3:       #f19d1a
+# 4:       #1e8bac
+# 5:       #be4264
+# 6:       #1ba595
+# 7:       #d5d5d5
+# 8:       #6f7579
+# 9:       #eb8413
+# 10:      #383c3e
+# 11:      #53585b
+# 12:      #cdcdcd
+# 13:      #dddddd
+# 14:      #c85e0d
+# 15:      #e5e5e5
 # 16:      #000000
 ##
 

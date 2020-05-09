@@ -1,25 +1,25 @@
-## Base16 Nord
-## Author: arcticicestudio
+## Base16 Dark Violet
+## Author: ruler501 (https://github.com/ruler501/base16-darkviolet)
 
 ##
 # The following matchup is only true if you also changed your terminal emulator
 # colors to the same as the scheme you are using.
-# 0:       #2E3440
-# 1:       #BF616A
-# 2:       #A3BE8C
-# 3:       #EBCB8B
-# 4:       #81A1C1
-# 5:       #B48EAD
-# 6:       #88C0D0
-# 7:       #E5E9F0
-# 8:       #4C566A
-# 9:       #D08770
-# 10:      #3B4252
-# 11:      #434C5E
-# 12:      #D8DEE9
-# 13:      #ECEFF4
-# 14:      #5E81AC
-# 15:      #8FBCBB
+# 0:       #000000
+# 1:       #a82ee6
+# 2:       #4595e6
+# 3:       #f29df2
+# 4:       #4136d9
+# 5:       #7e5ce6
+# 6:       #40dfff
+# 7:       #b08ae6
+# 8:       #593380
+# 9:       #bb66cc
+# 10:      #231a40
+# 11:      #432d59
+# 12:      #00ff00
+# 13:      #9045e6
+# 14:      #a886bf
+# 15:      #a366ff
 # 16:      #000000
 ##
 

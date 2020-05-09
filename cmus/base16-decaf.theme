@@ -1,25 +1,25 @@
-## Base16 Nord
-## Author: arcticicestudio
+## Base16 Decaf
+## Author: Alex Mirrington (https://github.com/alexmirrington)
 
 ##
 # The following matchup is only true if you also changed your terminal emulator
 # colors to the same as the scheme you are using.
-# 0:       #2E3440
-# 1:       #BF616A
-# 2:       #A3BE8C
-# 3:       #EBCB8B
-# 4:       #81A1C1
-# 5:       #B48EAD
-# 6:       #88C0D0
-# 7:       #E5E9F0
-# 8:       #4C566A
-# 9:       #D08770
-# 10:      #3B4252
-# 11:      #434C5E
-# 12:      #D8DEE9
-# 13:      #ECEFF4
-# 14:      #5E81AC
-# 15:      #8FBCBB
+# 0:       #2d2d2d
+# 1:       #ff7f7b
+# 2:       #beda78
+# 3:       #ffd67c
+# 4:       #90bee1
+# 5:       #efb3f7
+# 6:       #bed6ff
+# 7:       #cccccc
+# 8:       #777777
+# 9:       #ffbf70
+# 10:      #393939
+# 11:      #515151
+# 12:      #b4b7b4
+# 13:      #e0e0e0
+# 14:      #ff93b3
+# 15:      #ffffff
 # 16:      #000000
 ##
 

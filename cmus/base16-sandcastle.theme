@@ -1,25 +1,25 @@
-## Base16 Nord
-## Author: arcticicestudio
+## Base16 Sandcastle
+## Author: George Essig (https://github.com/gessig)
 
 ##
 # The following matchup is only true if you also changed your terminal emulator
 # colors to the same as the scheme you are using.
-# 0:       #2E3440
-# 1:       #BF616A
-# 2:       #A3BE8C
-# 3:       #EBCB8B
-# 4:       #81A1C1
-# 5:       #B48EAD
-# 6:       #88C0D0
-# 7:       #E5E9F0
-# 8:       #4C566A
-# 9:       #D08770
-# 10:      #3B4252
-# 11:      #434C5E
-# 12:      #D8DEE9
-# 13:      #ECEFF4
-# 14:      #5E81AC
-# 15:      #8FBCBB
+# 0:       #282c34
+# 1:       #83a598
+# 2:       #528b8b
+# 3:       #a07e3b
+# 4:       #83a598
+# 5:       #d75f5f
+# 6:       #83a598
+# 7:       #a89984
+# 8:       #665c54
+# 9:       #a07e3b
+# 10:      #2c323b
+# 11:      #3e4451
+# 12:      #928374
+# 13:      #d5c4a1
+# 14:      #a87322
+# 15:      #fdf4c1
 # 16:      #000000
 ##
 

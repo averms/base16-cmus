@@ -1,25 +1,25 @@
-## Base16 Nord
-## Author: arcticicestudio
+## Base16 Humanoid dark
+## Author: Thomas (tasmo) Friese
 
 ##
 # The following matchup is only true if you also changed your terminal emulator
 # colors to the same as the scheme you are using.
-# 0:       #2E3440
-# 1:       #BF616A
-# 2:       #A3BE8C
-# 3:       #EBCB8B
-# 4:       #81A1C1
-# 5:       #B48EAD
-# 6:       #88C0D0
-# 7:       #E5E9F0
-# 8:       #4C566A
-# 9:       #D08770
-# 10:      #3B4252
-# 11:      #434C5E
-# 12:      #D8DEE9
-# 13:      #ECEFF4
-# 14:      #5E81AC
-# 15:      #8FBCBB
+# 0:       #232629
+# 1:       #f11235
+# 2:       #02d849
+# 3:       #ffb627
+# 4:       #00a6fb
+# 5:       #f15ee3
+# 6:       #0dd9d6
+# 7:       #f8f8f2
+# 8:       #60615d
+# 9:       #ff9505
+# 10:      #333b3d
+# 11:      #484e54
+# 12:      #c0c0bd
+# 13:      #fcfcf6
+# 14:      #b27701
+# 15:      #fcfcfc
 # 16:      #000000
 ##
 
